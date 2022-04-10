@@ -12,4 +12,4 @@ any type of contribution are cool. cosmatic, new test, etc
 - no real damange to user outside of the scope of this contract. (burn, downgrade, etc this NFT is ok)
 
 ## misc
-- yeah if we have contributor we can change the pay out to payment spliter, multi-sig, or thresury contract but I don't think people should for this cert anyway. (maybe some donation lol)
+- yeah if we have contributor we can change the pay out to payment spliter, multi-sig, or thresury contract but I don't think people should pay for this cert anyway. (maybe some donation lol)
