@@ -69,6 +69,7 @@ contract Certificate is ERC721Enumerable {
         );
         require(test % 420 == 0, "failed");
         require(used[msg.value] == false, "used");
+        used[msg.value] = true;
         uint256 tokenID = ad2uint(reciver);
         level[tokenID] = 4;
         ownerNames[tokenID] = _ownerName;
