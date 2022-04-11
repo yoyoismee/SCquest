@@ -17,13 +17,14 @@
 ### [ez quest POC NPC](https://polygonscan.com/address/0xebbf607c199671d9ae99e31d9b9424208d42d924#code) - [Opensea](https://opensea.io/collection/certify-smart-contract-developer)
 
 
-|  id | name  | reward |
-|----|----|-----|
-| poc.1  |  just buy it |  POC Cert lv1 |
-| poc.2  |  flash sale! | POC Cert lv2 |
-| poc.3  |  no player can buy this! | POC Cert lv3 |
-| poc.4  |  very "special" price! | POC Cert lv4 |
+|  id | name  | reward | earned | first solver
+|----|----|-----|----|----|
+| poc.1  |  just buy it |  POC Cert lv1 | 0 | n/a
+| poc.2  |  flash sale! | POC Cert lv2 | 0 | n/a
+| poc.3  |  no player can buy this! | POC Cert lv3 | 3 | [0x65ca](https://polygonscan.com/address/0x65ca1e492dd6b70151874b6635d4bfd95d5810ab)
+| poc.4  |  very "special" price! | POC Cert lv4 | 21 | [0x0ddb](https://polygonscan.com/address/0x0ddb70920bc840ad080e7ae00b56a062eb25271a)
 
+last update : 1649685797 (unix ts)
 
 # MISC
 
