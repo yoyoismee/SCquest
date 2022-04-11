@@ -13,11 +13,15 @@
 ## list of NPC(s)
 
 ### [ez quest POC NPC](https://polygonscan.com/address/0xebbf607c199671d9ae99e31d9b9424208d42d924#code) - [Opensea](https://opensea.io/collection/certify-smart-contract-developer)
+
+
 |  id | name  | reward |
-|---|---|---|
+|----|----|-----|
 | poc.1  |  just buy it |  lv1 |
 | poc.2  |  flash sale! |  lv2 |
 | poc.3  |  no player can buy this! |  lv3 |
 | poc.4  |  very "special" price! |  lv3 |
+
+
 
 
