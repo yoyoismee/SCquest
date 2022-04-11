@@ -26,6 +26,14 @@
 
 last update : 1649685797 (unix ts)
 
+
+### Certify Tower (comming soon)
+claim the tower. 
+
+
+### Devloper Tavern (comming soon)
+quests
+
 # MISC
 
 ### [wanna contribute](/contrib)
