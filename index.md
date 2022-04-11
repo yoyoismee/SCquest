@@ -8,6 +8,7 @@
   - Veni, vidi, vici : only look at NPCs code. 
   - Open World: check out others player transaction or any external information are cool here.
   - Party Mode: work with friend. learn together. (pls don't share seed phase)
+  - I want it that way! : yeah just the way you like it!
 
 
 ## list of NPC(s)
@@ -17,10 +18,10 @@
 
 |  id | name  | reward |
 |----|----|-----|
-| poc.1  |  just buy it |  lv1 |
-| poc.2  |  flash sale! |  lv2 |
-| poc.3  |  no player can buy this! |  lv3 |
-| poc.4  |  very "special" price! |  lv3 |
+| poc.1  |  just buy it |  POC Cert lv1 |
+| poc.2  |  flash sale! | POC Cert lv2 |
+| poc.3  |  no player can buy this! | POC Cert lv3 |
+| poc.4  |  very "special" price! | POC Cert lv4 |
 
 
 # MISC
