@@ -8,7 +8,8 @@
   - Veni, vidi, vici : only look at NPCs code. 
   - Open World: check out others player transaction or any external information are cool here.
   - Party Mode: work with friend. learn together. (pls don't share seed phase)
-  - I want it that way! : yeah just the way you like it!
+  - [never give up](https://www.youtube.com/watch?v=dQw4w9WgXcQ) : only attempt one quest at a time.  
+  - [I want it that way!](https://www.youtube.com/watch?v=4fndeDfaWCg) : yeah just the way you like it!
 
 
 ## list of NPC(s)
