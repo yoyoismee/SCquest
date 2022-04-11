@@ -2,7 +2,7 @@
 
 
 ### how to play
-- go to each NPC (not-player contract)  
+- go to each NPC (non-player contract)  
 - do whatever you can to get cool NFTs.
 - set your own rules. play it anyway you like.
   - Veni, vidi, vici : only look at NPCs code. 
