@@ -34,6 +34,9 @@ claim the tower.
 ### Devloper Tavern (comming soon)
 quests
 
+### Ether Colosseum (comming soon)
+battle others player
+
 # MISC
 
 ### [wanna contribute](/contrib)
