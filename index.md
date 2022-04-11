@@ -23,5 +23,8 @@
 | poc.4  |  very "special" price! |  lv3 |
 
 
+# MISC
 
-
+### [wanna contribute](/contrib)
+### talk to me - [tw](https://twitter.com/0xyoyoismee) discord : yoyoismee#7449 
+### buy me coffee yoyoismee.eth
