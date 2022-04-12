@@ -27,15 +27,15 @@
 last update : 1649685797 (unix ts)
 
 
-### Certify Tower (comming soon)
-claim the tower. 
+### Certify Tower(s) (comming soon)
+climb the tower. (learn specific topics)
 
 
 ### Devloper Tavern (comming soon)
-quests
+quests (random challenge)
 
-### Ether Colosseum (comming soon)
-battle others player
+### Ether Royale (comming soon)
+free for all battle. (not a puzzle, it's a game)
 
 # MISC
 
